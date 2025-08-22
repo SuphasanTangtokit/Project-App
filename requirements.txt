@@ -1,0 +1,12 @@
+# For Dash apps
+dash
+dash-bootstrap-components
+pandas
+requests
+# For testing
+pytest
+pytest-cov
+selenium
+dash_ag_grid
+# pytest-flask
+dash[testing]

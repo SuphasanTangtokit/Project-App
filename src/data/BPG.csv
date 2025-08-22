@@ -1,0 +1,222 @@
+﻿New Category,New Category_Subgroup,Old Category,BPG,Date of publication,Status,Version,comments,organisation,WG lead,WG lead email,WG members,Justification 
+Constitutional / Rare & Inherited Diseases ,Cytogenomics,Cytogenetic Constitutional,ACC Postnatal,1/1/2007,out of date,1.01,"The ACC provides structured postnatal follow-up to support mothers and newborns. Based on the Best Practice Guideline: Postnatal Care of the Mother and Newborn, staff must:
+
+Introduce themselves and explain the visit.
+
+Assess maternal wellbeing (pain, bleeding, mood, wound healing).
+
+Assess infant wellbeing (feeding, growth, hydration, bonding).
+
+Support breastfeeding/nutrition and provide guidance.
+
+Educate on warning signs (e.g., heavy bleeding, fever, feeding issues).
+
+Promote mental health and safe sleep practices.
+
+Close the visit with: “Is there anything else I can do for you?”
+
+Document and arrange follow-up.",ACGS,,,,An ACC (Association for Clinical Cytogenetics) guideline for postnatal cytogenetic testing in patients with constitutional (germline) chromosomal abnormalities[1]. This pertains to non-cancer genetic diagnostics. 
+Constitutional / Rare & Inherited Diseases,Cytogenomics,Cytogenetic Constitutional,Constitutional aCGH,1/1/2011,out of date,2,Allegedly in draft,ACGS,,,,Best-practice guidelines for performing array CGH in constitutional (inherited) genome analysis[2]. It addresses a cytogenetic assay (microarray) used to detect germline copy-number variants in rare diseases. 
+Oncology ,Solid tumour,Cytogenetic Constitutional,Solid Tissue,1/1/2010,out of date,1,,ACGS,,,,"“Solid tissue” refers to cytogenetic analysis of solid tumours. The ACC Solid Tissue BPG (2010) covers best practices for tumor (somatic) karyotyping/FISH[3], so it falls under oncology (solid tumour diagnostics). "
+Constitutional / Rare & Inherited Diseases,Cytogenomics,Cytogenetic Constitutional,Germline Cytogenomics,1/1/2010,Current,,In draft,ACGS,"Kathy Mann
+",,,"Encompasses constitutional (germline) cytogenetic/genomic testing guidelines. It covers analysis of inherited chromosomal abnormalities (postnatal, prenatal, etc.), fitting in the Rare & Inherited disease category[1]. "
+Constitutional / Rare & Inherited Diseases,,Disease Specific,C9orf,,Current,,,ACGS,,,,"Guidelines for C9orf72 hexanucleotide repeat testing, used in inherited ALS/FTD. C9orf72 expansions cause a familial neurodegenerative disorder[4], so this BPG relates to rare inherited disease genetics (not oncology). "
+Constitutional / Rare & Inherited Diseases,,Disease Specific,Breakage syndromes,1/1/2010,Current,,,ACGS,,,,"Covers testing for chromosomal breakage syndromes (e.g. Fanconi anemia, AT). These are rare autosomal recessive disorders of genome instability[5], thus categorized under rare inherited disease guidelines. "
+Constitutional / Rare & Inherited Diseases,,Disease Specific,FH,1/1/2010,Current,,,ACGS,,,,"FH is an inherited metabolic disorder (high cholesterol). There are UK guidelines for FH genetic testing[6], indicating it’s a germline condition. The BPG for FH falls under Rare & Inherited Diseases. "
+Oncology ,Solid tumour,Disease Specific,DPYD,1/1/2010,Under Review,,,ACGS,,,,"DPYD genotyping is done to predict fluoropyrimidine chemotherapy toxicity in cancer patients[7][8]. It involves germline variants but is applied in oncology care (solid tumor therapy), so it’s in Cancer. "
+Oncology ,Solid tumour,Disease Specific ,BRCA,1/1/2010,Current,,,ACGS,,,,"BRCA1/2 testing guidelines deal with hereditary breast and ovarian cancer predisposition. This is a familial cancer syndrome[9], so it falls under the oncology category (solid tumours – familial cancer). "
+Oncology ,Solid tumour,Disease Specific ,HC,1/1/2010,Current,,,ACGS,,,,"Likely a general hereditary cancer guideline. It would cover familial cancer predispositions (like BRCA, Lynch, etc.), thus belonging in the Cancer/Oncology category. (E.g. familial cancer BPGs were developed by CMGS[9].) "
+Constitutional / Rare & Inherited Diseases,,Disesase Specific,Duchene & Becker,18/5/2020,out of date,,,ACGS,,,,"Guidelines for Duchenne and Becker muscular dystrophy (X-linked recessive disorders of the DMD gene). These are inherited neuromuscular diseases; a BPG exists for dystrophinopathies[10], so it’s in Rare & Inherited. "
+Oncology ,Solid tumour,Disesase Specific,FAP & MAP,,out of date,,,ACGS,,,,"FAP and MAP are hereditary colorectal cancer/polyposis syndromes. They are familial cancer conditions, so the BPG for FAP/MAP (e.g. CMGS 2000 guideline[11]) is classified under oncology (solid tumour predisposition). "
+Constitutional / Rare & Inherited Diseases,,Disesase Specific,Fragile X syndrome,1/1/2012,out of date,,,ACGS,,,,"Fragile X is an X-linked inherited intellectual disability syndrome. The Fragile X testing BPG[12] targets a rare genetic disorder, placing it in the Rare & Inherited disease category. "
+Constitutional / Rare & Inherited Diseases,,Disesase Specific,Haemochromatosis,7/8/2015,out of date,,,ACGS,,,"Graça Porto
+Pierre Brissot
+Dorine W Swinkels
+Heinz Zoller
+Outi Kamarainen
+Simon Patton
+Michael Morris
+Steve Keeney
+Isabel Alonso
+",Hereditary haemochromatosis is a recessively inherited iron overload disorder[13]. The BPG (CMGS 2006) for HFE gene testing[14] is therefore in the rare inherited disease category. 
+Constitutional / Rare & Inherited Diseases,,Disesase Specific,Haemophilia A,1/1/2010,out of date,,,ACGS,,Steve Keeney,"Mike Mitchell
+Anne Goodeve
+","Hemophilia A is an X-linked inherited bleeding disorder (F8 gene). Guidelines for molecular diagnosis of Hemophilia A[15] address an inherited condition, so this falls under Rare & Inherited Diseases. "
+Constitutional / Rare & Inherited Diseases,,Disesase Specific,Haemophilia B,1/1/2010,out of date,,,ACGS,,Mike Mitchell,"Steve Keeney
+Anne Goodeve
+","Hemophilia B (Factor IX deficiency) is also an X-linked inherited bleeding disorder. The CMGS BPG for Hemophilia B[15] covers germline mutation testing, placing it in the Rare & Inherited category. "
+Oncology ,Solid tumour,Disesase Specific,HNPCC - immunohistochemical analysis interpretation,1/1/2012,out of date,,,ACGS,,,"Mark Arends
+Merdol Ibrahim
+Lisa Happerfield
+Ian Frayling
+Keith Miller
+","This guideline deals with tumor IHC testing for mismatch repair proteins in suspected HNPCC (Lynch syndrome) cases. It’s a diagnostic step in colorectal cancer pathology[16], so it falls under Cancer/Oncology (solid). "
+Constitutional / Rare & Inherited Diseases,,Disesase Specific,Huntington disease,1/1/2012,out of date,,,ACGS,,,"Monique Losekoot
+Martine J van Belzen
+Sara Seneca
+Peter Bauer
+Susan AR Stenhouse
+David E Barton
+","Huntington’s disease is an autosomal dominant neurodegenerative disorder caused by a CAG repeat expansion. The BPG for HD genetic testing[17] addresses an inherited condition, so it is under Rare & Inherited Diseases. "
+Oncology,Solid tumour,Disesase Specific,Lynch syndrome,1/1/2016,out of date,,,ACGS,Ian Frayling,,"Ian Berry
+Andrew Wallace
+Stewart Payne
+Gail Norbury
+","Lynch syndrome (hereditary non-polyposis colorectal cancer) is an inherited cancer predisposition. It confers high risk of colon/endometrial cancers[18], so guidelines for Lynch syndrome fall in the Cancer/Oncology category. "
+Constitutional / Rare & Inherited Diseases,,Disesase Specific,Prader-Willi & Angelman syndrome,24/6/2019,out of date,,,ACGS,,,"Simon Ramsden
+Jasmin Beygo
+Karin Buiting
+Rachael Ellis
+Jill-Clayton-Smith
+Deniz Kanbe
+","PWS and AS are genomic imprinting disorders (15q11-q13) causing developmental syndromes. The BPG (ACGS/EMQN 2019) for PWS/AS molecular analysis[19] pertains to rare inherited disorders, fitting the Constitutional category. "
+Constitutional / Rare & Inherited Diseases,,Disesase Specific,Von Willebrand disease,5/10/2017,out of date,,,ACGS,,,"Anne Goodeve
+Paula James
+","VWD is an inherited bleeding disorder. The CMGS produced a BPG for VWD molecular analysis[15]. As an inherited coagulopathy, it belongs in Rare & Inherited Diseases rather than oncology or technical categories. "
+Constitutional / Rare & Inherited Diseases,,Disesase Specific,Cystic fibrosis CMGS,1/1/2009,out of date,,,ACGS,,,"M Schwartz
+Gail Norbury
+Lucy Jenkins
+P. Renwick
+D. Robinson
+","Cystic fibrosis is a common autosomal recessive disease. The CMGS BPG for CFTR genetic diagnosis[20] deals with germline mutation testing in CF, so this guideline is categorized under Rare & Inherited Diseases. "
+Constitutional / Rare & Inherited Diseases,,Disesase Specific,Mitochondrial,11/1/2020,out of date,,,ACGS,,"Carl Fratter
+",,"This refers to guidelines for diagnosing mitochondrial disorders (often maternally inherited). The ACGS BPG for molecular diagnosis of mitochondrial disease[21] covers rare inherited metabolic conditions, fitting that category. "
+General (Quality/IQC),Quality/IQC,General,Internal Quality CMGS,1/1/2004,out of date,,retired,ACGS,,,,"“Internal Quality” guidelines (e.g. CMGS 2004 document[22]) cover internal quality control procedures for genetic labs. They are broad quality assurance standards applicable to all labs, thus classified as General guidelines. "
+General(Quality/IQC),Quality/IQC,General,Internal Quality Control in Genetic Laboratories,1/1/2015,out of date,,,ACGS,,,"Zandra Deans
+Joo Wook Ahn
+Anne Bergbaum
+Kevin Colclough
+Ann Dalton
+Hazel Dinning
+Will King
+Christopher Kettle
+Andrea Naughton
+Suzanne Page
+Rachell Robinson
+Adele Timbs
+Michelle Fenlon
+","This 2015 ACGS guideline defines best practices for internal QA/QC in genetic labs[23]. It addresses laboratory quality management (independent of any specific assay or disease), so it falls under General guidelines. "
+General (reporting),Reporting,General,Reporting Molecular Genetics results,1/1/2015,Under Review,,retired,ACGS,,,,"The CMGS “Best Practice Guidelines for reporting molecular genetics results” (2011)[24] provides general standards on result reporting. It’s a methodological guideline for all molecular tests, hence a General category item. "
+General(reporting),Reporting,General,ACGS General Laboratory Reporting Recommendations ,3/1/2020,out of date,1.1,,ACGS,,,"Lara Cresswell
+Yvonne Wallis
+Graham Fews
+Zandra Deans
+Carl Fratter
+Louise Monkman
+Sian Morgan
+","The 2020 ACGS General Reporting Recommendations[23] set universal standards for genetic test reports. As a broad, cross-cutting guideline on laboratory reporting practices, it belongs in the General category. "
+General(Ethics/Policy),Ethics/Policy,General,Safeguarding issues and ethics,1/1/2015,Under Review,,,ACGS,,,,"Guidelines on safeguarding and ethical issues (e.g. consent, confidentiality in genetics) are overarching policies. For example, the Joint Committee on Medical Genetics issued guidance on consent & confidentiality[25], which applies generally, so these topics fall under General best practices. "
+Oncology,Solid tumour,Oncology,Sarcoma testing by reverse transcriptase PCR assays,1/1/2015,out of date,,,ACGS,Sandra N Hing,,"M Fernanda Amary
+Patricia JTA Groenen
+Angela Niblett
+Hongtao Ye2 
+Jane Chalker
+Perry Maxwell
+Dorte Wren
+David Rowe 
+Mark Catherwood
+Jayne Duncan
+Jennifer A. Fairley
+Zandra Deans","This BPG (2015) covers molecular testing of sarcomas using RT-PCR[26]. Sarcomas are solid tumors, so a guideline for their molecular diagnosis is categorized under Cancer/Oncology (Solid Tumours). "
+Oncology ,Haematological tumour,Oncology,AML & MDS,1/1/2012,out of date,1,In draft,ACGS,,,,"Guidelines for acute myeloid leukaemia & myelodysplastic syndromes cytogenetics (e.g. 2012 BPG[27]) fall under haematological oncology. They address genetic testing in blood cancers, so classified in Cancer/Oncology (Haem). "
+Oncology,Haematological tumour,Oncology,ALL,1/1/2011,out of date,1,In draft,ACGS,,,,"The ALL BPG (2011)[28] covers genetic analysis in acute lymphoblastic leukaemia, a blood cancer. Therefore, it is part of the Haematological Oncology guidelines category. "
+Oncology ,Haematological tumour,Oncology,CML & MPD,1/1/2011,out of date,1,,ACGS,,,,"This refers to the BPG for chronic myeloid leukaemia and other myeloproliferative neoplasms (2011)[29]. It deals with cytogenetic/molecular testing in leukaemias, so it’s classified under Cancer/Oncology (Haematological). "
+Oncology ,Haematological tumour,Oncology,Haemato-oncology,1/1/2007,out of date,1.01,,ACGS,,,,"The “Haemato-oncology” BPG (e.g. ACC 2007 v1.01[30]) provides general guidelines for hematological malignancy genetics. It squarely concerns blood cancers, fitting the Haematological Oncology subcategory of Cancer. "
+Oncology ,Solid tumour,Oncology,Tumour,1/1/2016,out of date,,,ACGS,"Rosalind J Hastings
+",,"Rosalind J Hastings
+Nick Bown
+Maria G Tibiletti
+Maria Debiec-Rychter
+Roberta Vanni
+Blanca Espinet
+Nadine van Roy
+Paul Roberts
+Eva van den Berg-de-Ruiter
+Alain Bernheim
+Jacqueline Schoumans
+Steve Chatters
+Zuzana Zemanova
+Marian Stevens-Kroef
+Annet Simons
+Sverre Heim
+Marta Salido
+Bauke Ylstra
+David R Betts
+","A broad “Tumour genetics” guideline (e.g. 2016 update[31] replacing earlier Solid Tissue BPG) covers analysis of solid tumour samples. As a general somatic tumor testing guide, it belongs in Cancer/Oncology (Solid Tumours). "
+Bioinformatics,,Oncology,Somatic Bioinformatics,1/1/2016,Current,,,ACGS,,,"Kirsty Russell
+Chris Wragg
+",This pertains to bioinformatic pipelines for somatic (tumour) genomic data analysis. It’s a computational guideline distinct from wet-lab assays. Such computational best practices (e.g. for cancer NGS data) are classified under Bioinformatics[32]. 
+Constitutional / Rare & Inherited Diseases,Reproductive Genomics,Prenatal,Prenatal,1/1/2009,out of date,1,In draft as Germline Cytogenomics,ACGS,,,"Kathy Mann
+Sue Hamilton
+Sian Morgan
+","“Prenatal” refers to guidelines for prenatal genetic diagnosis (e.g. ACC Prenatal Diagnosis BPG 2009[33]). This involves testing fetal samples for inherited conditions, fitting into the Rare & Inherited (constitutional) category. "
+Constitutional / Rare & Inherited Diseases,Reproductive Genomics,Prenatal,Maternal Cell Contamination,1/1/2016,Current,,In draft as Germline Cytogenomics,ACGS,,,,"MCC testing ensures prenatal specimens aren’t contaminated with maternal DNA. The MCC guideline (ACC 2008)[34] is specific to prenatal genetic workflows, so it’s categorized under Constitutional (quality control in prenatal diagnosis). "
+Constitutional / Rare & Inherited Diseases,Reproductive Genomics,Prenatal,ACGS QFPCR for the detection of aneuploidy,26/11/2018,out of date,4,In draft as Germline Cytogenomics,ACGS,,,,"The QF-PCR aneuploidy testing BPG (v4 2018)[35] provides assay guidance for rapid prenatal aneuploidy detection. Since it’s used in prenatal diagnosis of constitutional chromosomal disorders, it falls under Rare & Inherited Diseases. "
+Constitutional / Rare & Inherited Diseases,Reproductive Genomics,Prenatal,Prental Arrays,26/11/2018,Current,,In draft ,ACGS,,,,Guidelines for using microarray (aCGH/SNP arrays) in prenatal diagnosis would be part of constitutional genetics. Such “prenatal array” best practices (covered under constitutional aCGH guidance[33]) belong in the Rare & Inherited category. 
+Constitutional / Rare & Inherited Diseases,Reproductive Genomics,Prenatal,NIPT,26/11/2018,Current,,In draft,ACGS,,,,"NIPT is a prenatal screening test analyzing cell-free fetal DNA for aneuploidy. It’s part of reproductive genetics, not a technical pipeline or cancer test. For example, NIPT is used to screen for fetal trisomies[36], placing it under the Constitutional/Reproductive Genetics domain. "
+Technical / Assay-Specific,Sequencing,Sequencing,Sanger sequencing,1/1/2016,out of date,,,ACGS,Sian Ellard,,"Ruth Charlton
+Shu Yau
+David Gokhale
+Graham R Taylor
+Andrew Wallace
+Simon C Ramsden
+Ian R Berry","The BPG for Sanger sequencing (2016)[32] is a technique-focused guideline. It describes best practices for the sequencing assay itself, applicable across genes, hence categorized as a Technical/Assay-specific guideline. "
+Technical / Assay-Specific,Sequencing,Sequencing,Targeted next generation sequencing,8/10/2016,Current,,,ACGS,,,"Zandra Deans
+Christopher M Watson
+Ruth Charlton
+Sian Ellard
+Yvonne Wallis
+Chris Mattocks
+Stephen Abbs
+","This guideline (e.g. 2014 ACGS update[37]) covers targeted NGS panel testing. It’s centered on the sequencing methodology, not a particular disease, so it falls under Technical/Assay-Specific best practices. "
+Technical / Assay-Specific/ Bioinformatics,Sequencing,Sequencing,NGS bioinformatics,8/10/2016,Under Review,,,ACGS,,,"Nicola Whiffin
+Kim Brugger
+Joo Wook Ahn
+","“NGS Bioinformatics” (2016) is a guideline for handling and analyzing next-generation sequencing data[32]. It relates to computational data processing and storage for NGS, warranting placement in the Bioinformatics category. "
+Technical / Assay-Specific,Variant classification,Variant,Evaluation of Pathogenicity and the Reporting of Sequence variants in clinical molecular genetics,8/10/2016,Under Review,,retired,ACGS,,,,"This refers to guidelines for variant interpretation and reporting in clinical genetics. Such guidelines (e.g. on classifying sequence variants[38]) focus on analytical interpretation methods, thus fitting under Technical/Assay-Specific. "
+Technical / Assay-Specific,Variant classification,Variant,ACGS Variant classification in Rare disease,2/4/2020,out of date,4.01,,ACGS,,,,"The ACGS best-practice guideline for variant classification in rare (germline) disease (2024)[39] is a methodological framework for assessing pathogenicity. It’s a cross-cutting analytical guideline, so categorized as Technical. "
+Technical / Assay-Specific,Variant classification,Variant,Variant interpretation,25/2/2024,Current,,,ACGS,,,"Sian Ellard
+Emma L Baple
+Alison Callaway
+Ian Berry
+Natalie Forrester
+Clare Turnbull
+Martina Owens
+Diana M Eccles
+Stephen Abbs
+Richard Scott
+Zandra C Deans
+Tracy Lester
+Jo Campbell
+William G Newman
+Simon Ramsden
+Dominic J McMullan
+",“Variant interpretation” encompasses the general principles/guidelines for analyzing and classifying genetic variants. It is a technical aspect of genomic testing. 
+Technical / Assay-Specific,Variant classification,Variant,Somatic Variant Interpretation (SVIG),8/10/2016,Current,,,ACGS,,,,
+Genomic & Inherited Disorders,Cancer Genetics,,Hereditary Breast & Ovarian Cancer (HBOC),1/3/2024,Current,,"Covers germline & somatic testing, reporting standards",EMQN,Trudi McDevitt,via EMQN office,13 authors,Standardisation in HBOC genetic testing 
+Genomic & Inherited Disorders,Male Infertility,,Y-chromosomal Microdeletions (AZF),1/2/2023,Current,,International consensus for AZF deletions,EMQN,,via EMQN office,Expert Panel,Crucial for male infertility molecular diagnosis
+Genomic & Inherited Disorders,Cardiac Genetics,,Inherited Cardiomyopathies & Arrhythmias,1/2/2023,Current,,Broad ICA testing guidance,EMQN,Csilla Krausz,via EMQN office,Cariogenetics Panel,Enhances quality in inherited heart disease testing
+Genomic & Inherited Disorders,Endocrine Disorders,,Congenital Adrenal Hyperplasia (CAH) fue to 21-OH deficiency,1/2/2020,Current,,CAH molecular diagnosis standard,EMQN,,via EMQN office,Endocrine experts,Essential for CAH genetic testing practices
+Genomic & Inherited Disorders,Neuromuscular Genetics,,Duchenne/Becker Muscular Dystrophy,1/2/2020,Current,,DMD moleculat testing standards,EMQN,,via EMQN office,Neuromuscular experts,Quality standards for DMD/BMD diagnostics
+Molecular Pathology,Variant Nomenclature,,EMQN Variant Nomenclature Policy (HGVS v13),1/6/2025,Current,v13,Details HGVS use in germline & somatic contexts,EMQN,,via EMQN office,Policy working group,Ensures consistent variant reporting
+Molecular Pathology,Liquid Biopsy,,ISLB/EMQN Minimal Requirements for ctDNA testing,1/6/2025,Current,,Expert consensus for ctDNA testing pipelines,EMQN,,via EMQN office,Pathology experts,Supports accuracy in ctDNA milecular pathology
+Quality Assessment,Sample Handling,Sample QC,"DNA Extraction EQA (blood, FFPE, fresh tissue)",1/2/2020,Current,—,Covers pre-analytical DNA extraction workflows across sample types,UK NEQAS,—,—,Expert Scheme Panels,Ensures consistency in DNA extraction quality prior to genomic testing
+Quality Assessment,Sample Handling,Sample QC,cfDNA Plasma Extraction Pilot EQA,1/6/2025,Under Review,—,Evaluates liquid biopsy sample handling for cfDNA,UK NEQAS,—,—,—,Critical for emerging cfDNA-based diagnostics (oncology/prenatal)
+Technical – Sequencing,NGS & OGM,Technical assay methods,NGS Germline & Somatic SNV/Indel/Structural Variant EQA,1/6/2025,Current,—,Broad genomic variant detection assessment,UK NEQAS,—,—,—,Verifies lab performance in high-throughput sequencing assays
+Competency Assessment,Variant Interpretation (GENie),Variant Classification,GENie – BRCA/HRR Variant Classification,1/6/2025,Current,—,Individual interpretation competence testing,UK NEQAS,—,—,—,Ensures staff skill in interpreting variants per current guidelines
+Genomic / Reproductive,Preimplantation Genetic Testing,Reproductive Genetics,PGT-M (Monogenic disorders) EQA,1/6/2025,Current,—,Covers PGD workflows for inherited diseases,UK NEQAS,—,—,—,Maintains quality standards in reproductive genomic testing
+Clinical Genomics,Newborn Screening,Molecular NB Screening,"Disease Panel Newborn Bloodspot EQA (CF, SMA, SCID, MCADD, etc.)",1/6/2025,Current,—,Multi-condition newborn screening assessment,UK NEQAS,—,—,—,Validates newborn genetic screening accuracy across panels
+Technical – Cytogenomic,ISCN Nomenclature,Cytogenomics,ISCN Nomenclature EQA Pilot,1/6/2025,Current,—,Tests compliance with cytogenomic reporting standards,UK NEQAS,—,—,—,Ensures consistent ISCN reporting in cytogenetic labs
+Genomic & Pathology,Digital Pathology,Molecular Pathology,Tissue-i Digital Pathology EQA,1/6/2025,Current,—,Digital slide interpretation proficiency assessment,UK NEQAS,—,—,—,Supports competency in digital pathology workflows
+Molecular Pathogens,Viral Sequencing,—,SARS‑CoV‑2 Whole Genome Sequencing EQA,1/6/2025,Current,—,COVID sequencing quality assessment,UK NEQAS,—,—,—,Ensures accuracy in pathogen genome sequencing
+Quality Governance,Accreditation / Performance,EQA Performance Standards,ISO 17043 Accreditation & Performance Monitoring,1/6/2025,Current,—,UKAS-accredited structured EQA framework,GENQA,—,—,Scientific Board,Meets international standards for EQA operation
+Quality Assessment,Sample Handling,Sample QC,"DNA Extraction EQA (blood, FFPE, fresh tissue)",1/6/2025,Current,,Ongoing EQA covering pre-analutical sample types,GENQA,,,Scheme panels,Ensures labs reliably extract DNA across clinical sample types
+Quality Assessment,Sample Handling,Sample QC,cfDNA Plasma Extraction Pilot EQA,1/6/2025,Current,,Launched for liquid biopsy workflows,GENQA,,,,Validates extraction of cfDNA for prenatal and oncology use
+Technical-Sequencing Assays,NGS & OGM,Technical assay methods,NGS Germline & Somatic SNV/Indel/Structural Variant EQA,1/6/2025,Current,,Wide-ranging EQA for variant detection pipelines,GENQA,,,,Verifies performance of complex NGS workflows in clinical labs
+Competency Assessment,Variant Interpretation (GENie),Variant Classification,GENie BRCA/HRR Variant Classification,1/6/2025,Under Review,,Individual interpretation competency testing,GENQA,,,,Assesses lab professionals' ability to classify variants accurately based on guidelines
+Genomic / Reproductive,Preimplantation Genetic Testing,Preimplantation Testing,PGT-M (monogenic disorders) EQA,1/6/2025,Current,,Covers PGD workflows for single-gene disorders,GENQA,,,,"Supports quality in labs offering PGT for inherited conditions (e.g. CF, Duchenne)"
+Clinical Genomics,Newborn Screening,Molecular newborn screening,"Disease Panel Newborn Screening EQA (CF, SMA, SCID)",1/6/2025,Current,,Multi-gene newborn bloodspot testing,GENQA,,,,Validates screening performance for critcal congenital and metabolic conditions
+Technical-Cytogenomic Reporting,ISCN Nomenclature,Cytogenomics,ISCN Nomenclature EQA Pilot,1/6/2025,Current,,Tests cytogenomic ISCN compliance,GENQA,,,,Ensures accurate cytogenomic reporting using standard nomenclature
+Genomic & Pathology,Digital Pathology,Molecular Pathology,Tissue-I Digital Pathology EQA,1/6/2025,Current,,Digital tissue slide assessment program,GENQA,,,,Addresses QA for pathologists interpreting digital slide data
+Molecular Pathogens,Viral Sequencing,,SARs-CoV-2 Sequencing EQA,1/6/2025,Current,,EQA for COVID-19 genome sequencing workflows,GENQA,,,,Supports accurate clinical sequencing of emerging pathogens
+Quality Governance,Accreditation / ISO Standards,EQA Performance,ISO 170443 Accreditation and Performance Monitoring,1/6/2020,Current,,GENQA is UKAS- accredited for EQA provision,GENQA,,,Scientific Board,Ensures GenQA meets rigorous international standards for accreditation and performance monitoring in EQA delivery

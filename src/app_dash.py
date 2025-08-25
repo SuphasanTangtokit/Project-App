@@ -6,6 +6,8 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 from pathlib import Path
 from pages import bpgs, home, aboutpage, thebasics
+import requests
+import json
 
 data_path = Path(__file__).parent.joinpath("data", "BPG.csv")
 
@@ -24,6 +26,9 @@ df.columns = [clean_column_name(c) for c in df.columns]
 
 # Clean string values elementwise
 df = df.map(lambda x: x.strip() if isinstance(x, str) else x)
+
+
+
 
 # Shared top navbar (full-width)
 navbar = dbc.Navbar(
@@ -53,6 +58,8 @@ app.layout = html.Div([
     html.A('Go to top', href='#top', id='top-link',
            style={'background-color': 'gray', 'color': 'white', 'padding': '10px', 'position': 'fixed', 'bottom': '20px', 'right': '20px'})
 ])
+
+
 
 def bpg_detail_layout(bpg_name):
     # Decode name from URL
@@ -131,3 +138,5 @@ def update_top_link_style(pathname):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+

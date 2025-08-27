@@ -1,1 +1,1 @@
-from pages import bpgs, home, aboutpage, thebasics
+#src/pages.__init__.py

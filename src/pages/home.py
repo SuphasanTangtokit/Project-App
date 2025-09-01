@@ -16,7 +16,7 @@ layout = html.Div(
                 'padding-bottom': '0px',
                 'font-family': 'Arial, sans-serif'
             }),
-            html.H1("Care advice for nurses.", style={
+            html.H1("Care advice for professionals.", style={
                 'text-align': 'center',
                 'font-family': 'Lato, Arial, sans-serif',
                 'font-weight': 'bold',
